@@ -1,0 +1,27 @@
+.hero{
+  background-image: url("../../images/background.png");
+  background-position: center;
+  background-size: cover;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.hero-container{
+  width: 900px;
+  margin: auto;
+}
+
+.hero-container>h1{
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.hero-container>p{
+  color: white;
+  font-size: 20px;
+  opacity: .7;
+  margin-bottom: 2rem;
+}
